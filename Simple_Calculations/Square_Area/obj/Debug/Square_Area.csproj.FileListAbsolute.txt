@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Square_Area\bin\Debug\Square_Area.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Square_Area\bin\Debug\Square_Area.exe
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Square_Area\bin\Debug\Square_Area.pdb
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Square_Area\obj\Debug\Square_Area.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Square_Area\obj\Debug\Square_Area.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Square_Area\obj\Debug\Square_Area.exe
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Square_Area\obj\Debug\Square_Area.pdb

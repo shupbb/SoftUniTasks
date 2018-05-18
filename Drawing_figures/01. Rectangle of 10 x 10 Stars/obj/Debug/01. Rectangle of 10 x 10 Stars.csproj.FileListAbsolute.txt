@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Drawing_figures\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.exe.config
+D:\PROGRAM\Visual_Studio\Drawing_figures\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.pdb
+D:\PROGRAM\Visual_Studio\Drawing_figures\01. Rectangle of 10 x 10 Stars\obj\Debug\01. Rectangle of 10 x 10 Stars.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\01. Rectangle of 10 x 10 Stars\obj\Debug\01. Rectangle of 10 x 10 Stars.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\01. Rectangle of 10 x 10 Stars\obj\Debug\_01.Rectangle_of_10_x_10_Stars.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\01. Rectangle of 10 x 10 Stars\obj\Debug\_01.Rectangle_of_10_x_10_Stars.pdb

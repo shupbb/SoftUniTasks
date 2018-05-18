@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\15_OnTimeExam2\bin\Debug\15_OnTimeExam2.exe.config
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\15_OnTimeExam2\bin\Debug\15_OnTimeExam2.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\15_OnTimeExam2\bin\Debug\15_OnTimeExam2.pdb
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\15_OnTimeExam2\obj\Debug\15_OnTimeExam2.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\15_OnTimeExam2\obj\Debug\15_OnTimeExam2.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\15_OnTimeExam2\obj\Debug\15_OnTimeExam2.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\15_OnTimeExam2\obj\Debug\15_OnTimeExam2.pdb

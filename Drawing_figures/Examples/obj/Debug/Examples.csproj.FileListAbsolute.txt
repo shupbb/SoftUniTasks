@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Drawing_figures\Examples\bin\Debug\Examples.exe.config
+D:\PROGRAM\Visual_Studio\Drawing_figures\Examples\bin\Debug\Examples.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\Examples\bin\Debug\Examples.pdb
+D:\PROGRAM\Visual_Studio\Drawing_figures\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\Examples\obj\Debug\Examples.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\Examples\obj\Debug\Examples.pdb

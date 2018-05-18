@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+D:\PROGRAM\Visual_Studio\Rectangle Area\bin\Debug\Rectangle Area.exe
+D:\PROGRAM\Visual_Studio\Rectangle Area\bin\Debug\Rectangle Area.pdb
+D:\PROGRAM\Visual_Studio\Rectangle Area\obj\Debug\Rectangle Area.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Rectangle Area\obj\Debug\Rectangle Area.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Rectangle Area\obj\Debug\Rectangle Area.exe
+D:\PROGRAM\Visual_Studio\Rectangle Area\obj\Debug\Rectangle Area.pdb

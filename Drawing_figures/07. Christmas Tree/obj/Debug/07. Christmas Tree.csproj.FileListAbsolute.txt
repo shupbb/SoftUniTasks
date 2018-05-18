@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Drawing_figures\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.exe.config
+D:\PROGRAM\Visual_Studio\Drawing_figures\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.pdb
+D:\PROGRAM\Visual_Studio\Drawing_figures\07. Christmas Tree\obj\Debug\07. Christmas Tree.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\07. Christmas Tree\obj\Debug\07. Christmas Tree.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\07. Christmas Tree\obj\Debug\_07.Christmas_Tree.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\07. Christmas Tree\obj\Debug\_07.Christmas_Tree.pdb

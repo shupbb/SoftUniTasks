@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.pdb
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.pdb

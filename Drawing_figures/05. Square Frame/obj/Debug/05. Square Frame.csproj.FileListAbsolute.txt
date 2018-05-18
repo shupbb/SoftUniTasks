@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Drawing_figures\05. Square Frame\bin\Debug\_05.Square_Frame.exe.config
+D:\PROGRAM\Visual_Studio\Drawing_figures\05. Square Frame\bin\Debug\_05.Square_Frame.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\05. Square Frame\bin\Debug\_05.Square_Frame.pdb
+D:\PROGRAM\Visual_Studio\Drawing_figures\05. Square Frame\obj\Debug\05. Square Frame.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\05. Square Frame\obj\Debug\05. Square Frame.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\05. Square Frame\obj\Debug\_05.Square_Frame.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\05. Square Frame\obj\Debug\_05.Square_Frame.pdb

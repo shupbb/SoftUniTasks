@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Greater_number\bin\Debug\Greater_number.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Greater_number\bin\Debug\Greater_number.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Greater_number\bin\Debug\Greater_number.pdb
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Greater_number\obj\Debug\Greater_number.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Greater_number\obj\Debug\Greater_number.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Greater_number\obj\Debug\Greater_number.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Greater_number\obj\Debug\Greater_number.pdb

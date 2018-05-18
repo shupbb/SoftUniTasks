@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Sum Seconds\obj\Debug\Sum Seconds.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Sum Seconds\obj\Debug\Sum Seconds.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Sum Seconds\bin\Debug\Sum Seconds.pdb
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Sum Seconds\obj\Debug\Sum Seconds.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Sum Seconds\obj\Debug\Sum Seconds.pdb

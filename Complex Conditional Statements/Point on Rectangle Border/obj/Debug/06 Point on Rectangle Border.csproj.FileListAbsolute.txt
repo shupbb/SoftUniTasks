@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe.config
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.pdb
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point on Rectangle Border\obj\Debug\06 Point on Rectangle Border.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point on Rectangle Border\obj\Debug\06 Point on Rectangle Border.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.pdb

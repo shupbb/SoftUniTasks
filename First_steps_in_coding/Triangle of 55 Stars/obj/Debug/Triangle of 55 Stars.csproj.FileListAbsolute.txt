@@ -1,0 +1,6 @@
+D:\PROGRAM\Visual_Studio\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.exe.config
+D:\PROGRAM\Visual_Studio\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.exe
+D:\PROGRAM\Visual_Studio\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.pdb
+D:\PROGRAM\Visual_Studio\Triangle of 55 Stars\obj\Debug\Triangle of 55 Stars.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Triangle of 55 Stars\obj\Debug\Triangle of 55 Stars.exe
+D:\PROGRAM\Visual_Studio\Triangle of 55 Stars\obj\Debug\Triangle of 55 Stars.pdb

@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Drawing_figures\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe.config
+D:\PROGRAM\Visual_Studio\Drawing_figures\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.pdb
+D:\PROGRAM\Visual_Studio\Drawing_figures\04. Triangle of Dollars\obj\Debug\04. Triangle of Dollars.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\04. Triangle of Dollars\obj\Debug\04. Triangle of Dollars.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.pdb

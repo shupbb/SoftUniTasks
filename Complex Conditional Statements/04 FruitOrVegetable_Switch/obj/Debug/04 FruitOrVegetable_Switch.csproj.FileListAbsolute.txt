@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\04 FruitOrVegetable_Switch\bin\Debug\04 FruitOrVegetable_Switch.exe.config
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\04 FruitOrVegetable_Switch\bin\Debug\04 FruitOrVegetable_Switch.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\04 FruitOrVegetable_Switch\bin\Debug\04 FruitOrVegetable_Switch.pdb
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\04 FruitOrVegetable_Switch\obj\Debug\04 FruitOrVegetable_Switch.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\04 FruitOrVegetable_Switch\obj\Debug\04 FruitOrVegetable_Switch.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\04 FruitOrVegetable_Switch\obj\Debug\04 FruitOrVegetable_Switch.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\04 FruitOrVegetable_Switch\obj\Debug\04 FruitOrVegetable_Switch.pdb

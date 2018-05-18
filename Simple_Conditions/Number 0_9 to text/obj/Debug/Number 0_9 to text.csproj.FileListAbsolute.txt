@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Number 0_9 to text\bin\Debug\Number 0_9 to text.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Number 0_9 to text\bin\Debug\Number 0_9 to text.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Number 0_9 to text\bin\Debug\Number 0_9 to text.pdb
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Number 0_9 to text\obj\Debug\Number 0_9 to text.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Number 0_9 to text\obj\Debug\Number 0_9 to text.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Number 0_9 to text\obj\Debug\Number 0_9 to text.pdb
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Number 0_9 to text\obj\Debug\Number 0_9 to text.csprojResolveAssemblyReference.cache

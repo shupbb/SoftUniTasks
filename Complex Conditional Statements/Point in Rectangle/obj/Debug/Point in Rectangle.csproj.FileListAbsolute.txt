@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point in Rectangle\bin\Debug\Point in Rectangle.exe.config
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point in Rectangle\bin\Debug\Point in Rectangle.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point in Rectangle\bin\Debug\Point in Rectangle.pdb
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point in Rectangle\obj\Debug\Point in Rectangle.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point in Rectangle\obj\Debug\Point in Rectangle.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point in Rectangle\obj\Debug\Point in Rectangle.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Point in Rectangle\obj\Debug\Point in Rectangle.pdb

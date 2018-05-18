@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Bonus Score\bin\Debug\Bonus Score.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Bonus Score\bin\Debug\Bonus Score.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Bonus Score\bin\Debug\Bonus Score.pdb
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Bonus Score\obj\Debug\Bonus Score.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Bonus Score\obj\Debug\Bonus Score.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Bonus Score\obj\Debug\Bonus Score.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Bonus Score\obj\Debug\Bonus Score.pdb

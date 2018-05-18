@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Small Shop\bin\Debug\Small Shop.exe.config
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Small Shop\bin\Debug\Small Shop.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Small Shop\bin\Debug\Small Shop.pdb
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Small Shop\obj\Debug\Small Shop.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Small Shop\obj\Debug\Small Shop.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Small Shop\obj\Debug\Small Shop.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Small Shop\obj\Debug\Small Shop.pdb

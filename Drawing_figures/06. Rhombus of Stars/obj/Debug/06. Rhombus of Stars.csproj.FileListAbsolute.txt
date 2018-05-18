@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Drawing_figures\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.exe.config
+D:\PROGRAM\Visual_Studio\Drawing_figures\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.pdb
+D:\PROGRAM\Visual_Studio\Drawing_figures\06. Rhombus of Stars\obj\Debug\06. Rhombus of Stars.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\06. Rhombus of Stars\obj\Debug\06. Rhombus of Stars.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Drawing_figures\06. Rhombus of Stars\obj\Debug\_06.Rhombus_of_Stars.exe
+D:\PROGRAM\Visual_Studio\Drawing_figures\06. Rhombus of Stars\obj\Debug\_06.Rhombus_of_Stars.pdb

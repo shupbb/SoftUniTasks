@@ -1,0 +1,6 @@
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Even_or_odd\bin\Debug\Even_or_odd.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Even_or_odd\bin\Debug\Even_or_odd.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Even_or_odd\bin\Debug\Even_or_odd.pdb
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Even_or_odd\obj\Debug\Even_or_odd.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Even_or_odd\obj\Debug\Even_or_odd.exe
+D:\PROGRAM\Visual_Studio\Simple_Conditions\Even_or_odd\obj\Debug\Even_or_odd.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Area", "Square_Area\Square_Area.csproj", "{5BDFFA29-A77A-451C-A195-0F2E7B1841ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inches_to_Centimeters", "Inches_to_Centiometers\Inches_to_Centimeters.csproj", "{3F2150F7-D4A3-4016-81FF-1CD50E8855E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting_by_Name", "Greeting_by_Name\Greeting_by_Name.csproj", "{56FEA848-1474-460E-805E-BE5244EEE019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenate-Data", "Concatenate-Data\Concatenate-Data.csproj", "{8E0C692C-8145-4020-9D17-3C8F1D0CCECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapeziod_Area", "Trapeziod_Area\Trapeziod_Area.csproj", "{E4C687EF-51E9-412B-87CE-2FBDCA72A54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle Area and Perimeter", "Circle Area and Perimeter\Circle Area and Perimeter.csproj", "{D034F266-625F-4AC9-86CF-DA32372C10B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alcohol", "2D Rectangle Area\Alcohol.csproj", "{9EA65023-AF0A-4FF3-858D-B9844CF01620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDFFA29-A77A-451C-A195-0F2E7B1841ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDFFA29-A77A-451C-A195-0F2E7B1841ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDFFA29-A77A-451C-A195-0F2E7B1841ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDFFA29-A77A-451C-A195-0F2E7B1841ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2150F7-D4A3-4016-81FF-1CD50E8855E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2150F7-D4A3-4016-81FF-1CD50E8855E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2150F7-D4A3-4016-81FF-1CD50E8855E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2150F7-D4A3-4016-81FF-1CD50E8855E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FEA848-1474-460E-805E-BE5244EEE019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FEA848-1474-460E-805E-BE5244EEE019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FEA848-1474-460E-805E-BE5244EEE019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FEA848-1474-460E-805E-BE5244EEE019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0C692C-8145-4020-9D17-3C8F1D0CCECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0C692C-8145-4020-9D17-3C8F1D0CCECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0C692C-8145-4020-9D17-3C8F1D0CCECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0C692C-8145-4020-9D17-3C8F1D0CCECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C687EF-51E9-412B-87CE-2FBDCA72A54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C687EF-51E9-412B-87CE-2FBDCA72A54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C687EF-51E9-412B-87CE-2FBDCA72A54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C687EF-51E9-412B-87CE-2FBDCA72A54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D034F266-625F-4AC9-86CF-DA32372C10B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D034F266-625F-4AC9-86CF-DA32372C10B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D034F266-625F-4AC9-86CF-DA32372C10B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D034F266-625F-4AC9-86CF-DA32372C10B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA65023-AF0A-4FF3-858D-B9844CF01620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA65023-AF0A-4FF3-858D-B9844CF01620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA65023-AF0A-4FF3-858D-B9844CF01620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA65023-AF0A-4FF3-858D-B9844CF01620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5233A64A-320F-4FC9-9D45-44BDA5BB35FD}
+	EndGlobalSection
+EndGlobal

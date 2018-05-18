@@ -1,0 +1,6 @@
+D:\PROGRAM\Visual_Studio\Nums 1-20\bin\Debug\Nums 1-20.exe.config
+D:\PROGRAM\Visual_Studio\Nums 1-20\bin\Debug\Nums 1-20.exe
+D:\PROGRAM\Visual_Studio\Nums 1-20\bin\Debug\Nums 1-20.pdb
+D:\PROGRAM\Visual_Studio\Nums 1-20\obj\Debug\Nums 1-20.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Nums 1-20\obj\Debug\Nums 1-20.exe
+D:\PROGRAM\Visual_Studio\Nums 1-20\obj\Debug\Nums 1-20.pdb

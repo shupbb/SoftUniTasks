@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Inches_to_Centiometers\bin\Debug\Inches_to_Centiometers.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Inches_to_Centiometers\bin\Debug\Inches_to_Centiometers.exe
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Inches_to_Centiometers\bin\Debug\Inches_to_Centiometers.pdb
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Inches_to_Centiometers\obj\Debug\Inches_to_Centiometers.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Inches_to_Centiometers\obj\Debug\Inches_to_Centiometers.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Inches_to_Centiometers\obj\Debug\Inches_to_Centiometers.exe
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Inches_to_Centiometers\obj\Debug\Inches_to_Centiometers.pdb

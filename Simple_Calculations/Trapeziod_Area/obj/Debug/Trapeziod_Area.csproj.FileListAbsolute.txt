@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Trapeziod_Area\obj\Debug\Trapeziod_Area.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Trapeziod_Area\obj\Debug\Trapeziod_Area.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Trapeziod_Area\bin\Debug\Trapeziod_Area.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Trapeziod_Area\bin\Debug\Trapeziod_Area.exe
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Trapeziod_Area\bin\Debug\Trapeziod_Area.pdb
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Trapeziod_Area\obj\Debug\Trapeziod_Area.exe
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Trapeziod_Area\obj\Debug\Trapeziod_Area.pdb

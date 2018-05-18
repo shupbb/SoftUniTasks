@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.exe.config
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Personal Titles\bin\Debug\Personal Titles.pdb
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.exe
+D:\PROGRAM\Visual_Studio\Complex Conditional Statements\Personal Titles\obj\Debug\Personal Titles.pdb

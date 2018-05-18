@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe.config
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.pdb
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.exe
+D:\PROGRAM\Visual_Studio\Simple_Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.pdb
