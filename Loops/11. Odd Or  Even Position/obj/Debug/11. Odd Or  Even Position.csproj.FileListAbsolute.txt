@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Loops\11. Odd Or  Even Position\bin\Debug\_11.Odd_Or__Even_Position.exe.config
+D:\PROGRAM\Visual_Studio\Loops\11. Odd Or  Even Position\bin\Debug\_11.Odd_Or__Even_Position.exe
+D:\PROGRAM\Visual_Studio\Loops\11. Odd Or  Even Position\bin\Debug\_11.Odd_Or__Even_Position.pdb
+D:\PROGRAM\Visual_Studio\Loops\11. Odd Or  Even Position\obj\Debug\11. Odd Or  Even Position.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Loops\11. Odd Or  Even Position\obj\Debug\11. Odd Or  Even Position.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Loops\11. Odd Or  Even Position\obj\Debug\_11.Odd_Or__Even_Position.exe
+D:\PROGRAM\Visual_Studio\Loops\11. Odd Or  Even Position\obj\Debug\_11.Odd_Or__Even_Position.pdb

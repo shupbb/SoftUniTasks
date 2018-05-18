@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.exe.config
+D:\PROGRAM\Visual_Studio\Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.exe
+D:\PROGRAM\Visual_Studio\Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.pdb
+D:\PROGRAM\Visual_Studio\Loops\08. Odd Even Sum\obj\Debug\08. Odd Even Sum.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Loops\08. Odd Even Sum\obj\Debug\08. Odd Even Sum.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Loops\08. Odd Even Sum\obj\Debug\_08.Odd_Even_Sum.exe
+D:\PROGRAM\Visual_Studio\Loops\08. Odd Even Sum\obj\Debug\_08.Odd_Even_Sum.pdb

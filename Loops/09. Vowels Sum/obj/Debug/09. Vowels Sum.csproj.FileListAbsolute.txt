@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe.config
+D:\PROGRAM\Visual_Studio\Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe
+D:\PROGRAM\Visual_Studio\Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.pdb
+D:\PROGRAM\Visual_Studio\Loops\09. Vowels Sum\obj\Debug\09. Vowels Sum.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Loops\09. Vowels Sum\obj\Debug\09. Vowels Sum.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.exe
+D:\PROGRAM\Visual_Studio\Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.pdb

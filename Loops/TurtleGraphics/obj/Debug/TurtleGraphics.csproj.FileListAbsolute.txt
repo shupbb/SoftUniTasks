@@ -1,0 +1,12 @@
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\bin\Debug\Nakov.TurtleGraphics.dll
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.forms.resources
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.Properties.Resources.resources
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.GenerateResource.cache
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.CopyComplete
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+D:\PROGRAM\Visual_Studio\Loops\TurtleGraphics\obj\Debug\TurtleGraphics.pdb

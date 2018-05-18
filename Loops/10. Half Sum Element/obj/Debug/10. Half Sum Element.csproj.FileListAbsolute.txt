@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.exe.config
+D:\PROGRAM\Visual_Studio\Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.exe
+D:\PROGRAM\Visual_Studio\Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.pdb
+D:\PROGRAM\Visual_Studio\Loops\10. Half Sum Element\obj\Debug\10. Half Sum Element.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Loops\10. Half Sum Element\obj\Debug\10. Half Sum Element.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Loops\10. Half Sum Element\obj\Debug\_10.Half_Sum_Element.exe
+D:\PROGRAM\Visual_Studio\Loops\10. Half Sum Element\obj\Debug\_10.Half_Sum_Element.pdb

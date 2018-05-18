@@ -1,0 +1,7 @@
+D:\PROGRAM\Visual_Studio\Loops\LoopsTests\bin\Debug\LoopsTests.exe.config
+D:\PROGRAM\Visual_Studio\Loops\LoopsTests\bin\Debug\LoopsTests.exe
+D:\PROGRAM\Visual_Studio\Loops\LoopsTests\bin\Debug\LoopsTests.pdb
+D:\PROGRAM\Visual_Studio\Loops\LoopsTests\obj\Debug\LoopsTests.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Visual_Studio\Loops\LoopsTests\obj\Debug\LoopsTests.csproj.CoreCompileInputs.cache
+D:\PROGRAM\Visual_Studio\Loops\LoopsTests\obj\Debug\LoopsTests.exe
+D:\PROGRAM\Visual_Studio\Loops\LoopsTests\obj\Debug\LoopsTests.pdb
